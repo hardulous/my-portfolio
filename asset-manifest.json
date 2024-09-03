@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.ceaef337.css",
-    "main.js": "/my-portfolio/static/js/main.3e9d452a.js",
+    "main.js": "/my-portfolio/static/js/main.384bbd18.js",
     "static/media/my-jbook.mp4": "/my-portfolio/static/media/my-jbook.753eed688e1656d67b68.mp4",
     "static/media/interface.mp4": "/my-portfolio/static/media/interface.2bc3cf115a3347ea84b4.mp4",
     "static/media/header.jpg": "/my-portfolio/static/media/header.6d693711d853155ca378.jpg",
@@ -10,23 +10,23 @@
     "static/media/interface.PNG": "/my-portfolio/static/media/interface.624812ce01b3fd001162.PNG",
     "static/media/recollect2.PNG": "/my-portfolio/static/media/recollect2.b5fed68786abc631137e.PNG",
     "static/media/about-pic2.jpg": "/my-portfolio/static/media/about-pic2.7597400dab83e8a8fdb7.jpg",
-    "static/media/Aman Bisht Cv.pdf": "/my-portfolio/static/media/Aman Bisht Cv.1e83216456046cc85dff.pdf",
-    "static/media/react-svgrepo-com.svg": "/my-portfolio/static/media/react-svgrepo-com.f57b349b4d9df56c9b48c916a8d5adfb.svg",
-    "static/media/node-js-svgrepo-com.svg": "/my-portfolio/static/media/node-js-svgrepo-com.a7f2ccf30eed3e5878a2ba1e6be108a2.svg",
-    "static/media/mysql-svgrepo-com.svg": "/my-portfolio/static/media/mysql-svgrepo-com.c7cf06c150d9ae01731da43c9450d5b8.svg",
-    "static/media/typescript-svgrepo-com.svg": "/my-portfolio/static/media/typescript-svgrepo-com.da47f77824fab48dafd99485194e6bae.svg",
-    "static/media/express-svgrepo-com.svg": "/my-portfolio/static/media/express-svgrepo-com.076c798a78385ade2dc698f1a1d92613.svg",
-    "static/media/mongodb-svgrepo-com.svg": "/my-portfolio/static/media/mongodb-svgrepo-com.bfa6cdd80f4a99232cadb39ebbb976d2.svg",
-    "static/media/nextjs-svgrepo-com.svg": "/my-portfolio/static/media/nextjs-svgrepo-com.8c6e83bb8f4e115ea520e96849ae6b82.svg",
-    "static/media/javascript-svgrepo-com.svg": "/my-portfolio/static/media/javascript-svgrepo-com.7bb08cdbe94fc2dfc1b51be8c2dae551.svg",
+    "static/media/Aman Bisht Cv.pdf": "/my-portfolio/static/media/Aman Bisht Cv.518e74d4f189b7905427.pdf",
+    "static/media/react-svgrepo-com.svg": "/my-portfolio/static/media/react-svgrepo-com.22a05374f4eefdd120b71df3f98d68a1.svg",
+    "static/media/node-js-svgrepo-com.svg": "/my-portfolio/static/media/node-js-svgrepo-com.644cc6d6e9d43f309da51fe7d6edb282.svg",
+    "static/media/mysql-svgrepo-com.svg": "/my-portfolio/static/media/mysql-svgrepo-com.55030be090fed0ff434c4fefb8875fa4.svg",
+    "static/media/typescript-svgrepo-com.svg": "/my-portfolio/static/media/typescript-svgrepo-com.db8ea18105df83bf21e73446e69621a1.svg",
+    "static/media/express-svgrepo-com.svg": "/my-portfolio/static/media/express-svgrepo-com.a6606d033000bf34a5cfd8d1e9e92813.svg",
+    "static/media/mongodb-svgrepo-com.svg": "/my-portfolio/static/media/mongodb-svgrepo-com.d18b3c0417bd19d758ccab324a5a44a5.svg",
+    "static/media/nextjs-svgrepo-com.svg": "/my-portfolio/static/media/nextjs-svgrepo-com.64d4c4d2ccd53c12128fa63c54d2795b.svg",
+    "static/media/javascript-svgrepo-com.svg": "/my-portfolio/static/media/javascript-svgrepo-com.c2d463fde72a01350f2e8cdd7797b7ba.svg",
     "index.html": "/my-portfolio/index.html",
-    "static/media/css-3-svgrepo-com.svg": "/my-portfolio/static/media/css-3-svgrepo-com.315b8fdb9dbf75ae965b80bf368895cd.svg",
-    "static/media/html-5-svgrepo-com.svg": "/my-portfolio/static/media/html-5-svgrepo-com.0107c93943a8f415b5db64ebb0a9d12d.svg",
+    "static/media/css-3-svgrepo-com.svg": "/my-portfolio/static/media/css-3-svgrepo-com.60e23942f41d4dc73de0d271b4453605.svg",
+    "static/media/html-5-svgrepo-com.svg": "/my-portfolio/static/media/html-5-svgrepo-com.bfc29cc664956a7748f9ee78fa82ec7b.svg",
     "main.ceaef337.css.map": "/my-portfolio/static/css/main.ceaef337.css.map",
-    "main.3e9d452a.js.map": "/my-portfolio/static/js/main.3e9d452a.js.map"
+    "main.384bbd18.js.map": "/my-portfolio/static/js/main.384bbd18.js.map"
   },
   "entrypoints": [
     "static/css/main.ceaef337.css",
-    "static/js/main.3e9d452a.js"
+    "static/js/main.384bbd18.js"
   ]
 }
