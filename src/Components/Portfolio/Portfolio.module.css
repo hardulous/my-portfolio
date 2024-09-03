@@ -1,0 +1,130 @@
+.portfolioContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2.5rem;
+}
+
+.portfolioItem {
+  background-color: var(--color-bg-variant);
+  padding: 1.3rem;
+  border-radius: 2rem;
+  border: 1px solid transparent;
+  transition: var(--transition);
+}
+
+.portfolioItem:hover {
+  border-color: var(--color-primary-variant);
+  background-color: transparent;
+}
+
+.portfolioItemImg {
+  border-radius: 1.5rem;
+  overflow: hidden;
+}
+
+.portfolioItem h3 {
+  margin: 1.2rem 0 2rem;
+}
+
+.portfolioItem h3 {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.portfolioItemCTA {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.videoWrapper {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.videoContainer .projectDesc {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.videoContainer video {
+  width: 50%;
+}
+
+.projectDesc h3 {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin: 1.2rem 0 2rem;
+  color: var(--color-light);
+}
+
+.projectDesc h2 {
+  font-family: cursive;
+  font-size: 3rem;
+  font-weight: bolder;
+}
+
+.videoContainer {
+  background-color: var(--color-bg-variant);
+  padding: 1.3rem;
+  border-radius: 2rem;
+  border: 1px solid transparent;
+  transition: var(--transition);
+  display: flex;
+  justify-content: space-evenly;
+}
+
+@media screen and (max-width: 1024px) {
+  .portfolioContainer {
+    grid-template-columns: 1fr 1fr;
+    gap: 1.2rem;
+  }
+  .videoContainer {
+    flex-direction: column;
+  }
+  .videoContainer .projectDesc {
+    width: 100%;
+  }
+  .projectDesc h2 {
+    font-size: 2rem;
+  }
+  .projectDesc h3 {
+    margin: 1rem 0rem;
+  }
+  .videoContainer video {
+    width: 100%;
+  }
+  .portfolioItemCTA a{
+    padding: 0.5rem 1rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .portfolioContainer {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .portfolioContainer {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .portfolioItem h3 {
+    font-size: 0.8rem;
+  }
+
+  .portfolioItemCTA {
+    align-items: center;
+  }
+}
